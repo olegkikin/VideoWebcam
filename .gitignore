@@ -1,0 +1,8 @@
+/build*/
+/dist/
+/vendor/ffmpeg*/
+/vendor/*.zip
+/vendor/windows-classic-samples/
+/test-output/
+*.user
+*.log
