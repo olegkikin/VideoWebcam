@@ -2,6 +2,8 @@
 
 A native C++ Windows app that turns a local video or image into a virtual webcam. It includes a DirectShow camera component of its own; OBS and a physical webcam are not required.
 
+![Video Webcam](video_webcam_screenshot.jpg)
+
 ## Run
 
 1. Keep the entire `dist/VideoWebcam` folder together in a permanent, writable location.
